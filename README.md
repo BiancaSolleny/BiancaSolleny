@@ -29,11 +29,6 @@ Atualmente estudo C, C++, Python e desenvolvimento inicial para Web.
 
 ---
 
-## 📬 Contato
-- **E-mail:** biancasolleny141@exemplo.com ou biancasolleny15@exemplo.com
-
----
-
 ## 🔬 Pesquisa Acadêmica & Iniciação Científica — Projeto MANNA
 
 Atualmente sou bolsista de **Iniciação Científica** pelo **MANNA**, um programa de alcance nacional presente em diversas instituições brasileiras.  
@@ -51,3 +46,8 @@ O programa impacta centenas de estudantes em todo o Brasil, e a IC faz parte da 
 
 📄 **Currículo Lattes:**  
 [http://lattes.cnpq.br/6199148412856008]
+
+---
+
+## 📬 Contato
+- **E-mail:** biancasolleny141@exemplo.com ou biancasolleny15@exemplo.com
