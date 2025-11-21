@@ -11,13 +11,11 @@ Atualmente estudo C, C++, Python e desenvolvimento inicial para Web.
 - C  
 - C++  
 - Python (básico)
-- Java (básico)
 - HTML/CSS (básico)
 
-### **Ferramentas e Bibliotecas**
+### **Ferramentas**
 - Git & GitHub  
 - VS Code  
-- Linux/WSL
   
 ---
 
