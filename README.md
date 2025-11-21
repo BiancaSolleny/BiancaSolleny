@@ -32,11 +32,5 @@ Atualmente estudo C, C++, Python e desenvolvimento inicial para Web.
 ## 📬 Contato
 - **E-mail:** biancasolleny141@exemplo.com ou biancasolleny15@exemplo.com
 
----
-
-## ⚙️ Estatísticas (opcionais – use se quiser)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=default)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=default)
 
 ---
