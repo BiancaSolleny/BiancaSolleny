@@ -1,4 +1,4 @@
-# Eu sou a Bianca Solleny
+# Olá, me chamo Bianca
 
 Estudante de **Ciência da Computação** na UFV, com interesse em desenvolvimento de software, lógica de programação e estruturas de dados.  
 Atualmente estudo C, C++, Python e desenvolvimento inicial para Web.
