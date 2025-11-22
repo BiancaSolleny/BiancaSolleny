@@ -46,4 +46,4 @@ O programa impacta centenas de estudantes em todo o Brasil, e a IC faz parte da 
 ---
 
 ## 📬 Contato
-- **E-mail:** biancasolleny141@exemplo.com ou biancasolleny15@exemplo.com
+- **E-mail:** biancasolleny141@gmail.com ou biancasolleny15@gmail.com
