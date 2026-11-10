@@ -8,8 +8,8 @@ Atualmente estudo C, C++, Python e desenvolvimento inicial para Web.
 ### **Linguagens**
 - C  
 - C++  
-- Python (básico)
-- HTML/CSS (básico)
+- Python
+- HTML/CSS
 
 ### **Ferramentas**
 - Git & GitHub  
@@ -21,8 +21,10 @@ Atualmente estudo C, C++, Python e desenvolvimento inicial para Web.
 - Programação orientada a objetos  
 - Estruturas de dados  
 - Algoritmos  
-- Fundamentos de desenvolvimento Web  
-
+- Fundamentos de desenvolvimento Web
+- Eletrônica
+- Internet das coisas (IoT)
+- Redes de Computadores
 ---
 
 ## 🔬 Pesquisa Acadêmica & Iniciação Científica — Projeto MANNA
